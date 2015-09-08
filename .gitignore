@@ -1,0 +1,13 @@
+#ignore
+Makefile
+*.pro.user
+*.Debug
+*.Release
+
+/bin
+/form
+/obj
+/moc
+/debug
+/release
+
